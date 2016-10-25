@@ -1,18 +1,25 @@
 Nodeunit contributors (sorted alphabeticaly)
 #Anton Kozlov
-*Userstory
+* Userstory
+
 #Artsiom Kisialiou
 * team lead
+
 #Vlad Ilushictz
-*CEO
+* CEO
+
 #Denis Kruglik
-*HTML test reporter
-*system analytic
+* HTML test reporter;
+* system analytic
+
 #Egor Gorbik
-*CTO
+* CTO
+
 #Ivan Shaveko
-*CFO
+* CFO
+
 #Sergei Krukovskii
-*CIO
+* CIO
+
 #Timur Savko
-*Solution architect
+* Solution architect
